@@ -1,5 +1,5 @@
-<a href="https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a>
-<main>
+<a href="https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/lifestyle">https://worldwide.bose.com/updates/lifestyle</a>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
