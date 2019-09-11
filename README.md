@@ -1,6 +1,6 @@
 # ced-old
 Bose AE2w = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/README.md">(Info)</a><br>
-Bose Bluetooth headset = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_headset/README.md">(Info)</a><br>
+Bose Bluetooth headset = vincent <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_headset/README.md">(Info)</a><br>
 Bose Bluetooth headset series 2 = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_headset/README.md">(Info)</a><br>
 Bose CineMate® 1 SR  = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/cinemate_1sr/README.md">(Info)</a><br>
 Bose CineMate® 120 system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/cinemate/README.md">(Info)</a><br>
