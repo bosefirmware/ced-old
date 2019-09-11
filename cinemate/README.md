@@ -1,4 +1,5 @@
-<a href="https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a>
+<a href="https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a><br>
+<a href="https://worldwide.bose.com/updates/cinemate">https://worldwide.bose.com/updates/cinemate</a>
 <main>
 <div class="pageTitle title">
 <h1 class="bose-title bose-title--mainTitle   -">
