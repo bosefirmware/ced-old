@@ -1,4 +1,5 @@
-<a href="https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html">https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html</a>
+<a href="https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html">https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html</a><br>
+<a href="https://worldwide.bose.com/updates/soundlink_air_2">https://worldwide.bose.com/updates/soundlink_air_2</a>
 <div data-id="SupportTabs_tab3" class="bose-tabContent__content " lpos="Downloads region area">
 <a name="SupportTabs_tab3" title=""></a>
 <h2 class="bose-tabContent__title ">Downloads</h2>
