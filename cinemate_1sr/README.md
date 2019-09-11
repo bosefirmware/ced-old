@@ -1,4 +1,5 @@
-<a href="https://www.bose.com/en_us/support/article/cinemate_1sr_download.html">https://www.bose.com/en_us/support/article/cinemate_1sr_download.html</a>
+<a href="https://www.bose.com/en_us/support/article/cinemate_1sr_download.html">https://www.bose.com/en_us/support/article/cinemate_1sr_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/cinemate1sr">https://worldwide.bose.com/updates/cinemate1sr</a>
 <main>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
