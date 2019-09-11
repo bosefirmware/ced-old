@@ -60,11 +60,7 @@ Updating the system software (video included)
 </ul>
 </div>
 </div>
-<div class="youtubePlayer">
-<div class="bose-youtubePlayer">
-<iframe class="bose-youtubePlayer__player" src="./Updating the system software (video included)_files/8nDx2V-ncbs.html" frameborder="0" allowfullscreen="" style="height: 723.164px;"></iframe>
-</div>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nDx2V-ncbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="text">
 <div class="bose-richText  ">
 <p>Software updates sometimes become available to improve the performance of your system. To update your software, follow these steps:</p>
