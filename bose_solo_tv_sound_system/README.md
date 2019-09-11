@@ -14,7 +14,7 @@
 <a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_10_series_ii.html">Bose® Solo 10 series II TV sound system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/bose-solo-15-tv-sound-system.html">Bose® Solo 15 Series II TV sound system</a>
+<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/bose-solo-15-tv-sound-system.html">Bose® Solo 15 series II TV sound system</a>
 </li>
 <li class="bose-list__listitem ">
 <a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_tv_sound_system.html">Bose® Solo TV sound system</a>
