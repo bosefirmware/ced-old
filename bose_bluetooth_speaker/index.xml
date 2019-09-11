@@ -1,0 +1,39 @@
+<INDEX REVISION="02.13.00">
+
+  <DEVICE ID="0xbc50" PRODUCTNAME="Bose Bluetooth Speaker">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.00.14" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_speaker/">
+        <IMAGE REVISION="21.24.00" SUBID="0" LENGTH="623096" CRC="0xffffffff" FILENAME="Chihuahua_FMWR_01.00.14.dfu" NOFORCE="1" />
+        <IMAGE REVISION="01.00.14" SUBID="1" LENGTH="250994" CRC="0xffffffff" FILENAME="Chihuahua_VM_01.00.14.dfu" NOFORCE="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <DEVICE ID="0xbc51" PRODUCTNAME="Bose Bluetooth Speaker">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.00.14" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_speaker/">
+        <IMAGE REVISION="21.24.00" SUBID="0" LENGTH="623096" CRC="0xffffffff" FILENAME="Chihuahua_FMWR_01.00.14.dfu" NOFORCE="1" />
+        <IMAGE REVISION="01.00.14" SUBID="1" LENGTH="250994" CRC="0xffffffff" FILENAME="Chihuahua_VM_01.00.14.dfu" NOFORCE="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <DEVICE ID="0xbc52" PRODUCTNAME="Bose Bluetooth Speaker">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="02.00.05" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_speaker/">
+        <IMAGE REVISION="21.24.00" SUBID="0" LENGTH="623096" CRC="0xffffffff" FILENAME="Chihuahua_FMWR_02.00.05.dfu" NOFORCE="1" />
+        <IMAGE REVISION="02.00.05" SUBID="1" LENGTH="247760" CRC="0xffffffff" FILENAME="Chihuahua_VM_02.00.05.dfu" NOFORCE="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <DEVICE ID="0xbc53" PRODUCTNAME="Bose Bluetooth Speaker">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="02.00.05" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_speaker/">
+        <IMAGE REVISION="21.24.00" SUBID="0" LENGTH="623096" CRC="0xffffffff" FILENAME="Chihuahua_FMWR_02.00.05.dfu" NOFORCE="1" />
+        <IMAGE REVISION="02.00.05" SUBID="1" LENGTH="247760" CRC="0xffffffff" FILENAME="Chihuahua_VM_02.00.05.dfu" NOFORCE="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+</INDEX>
