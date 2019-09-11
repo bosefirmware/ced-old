@@ -90,7 +90,7 @@ Wi-Fi® indicator
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air_2/soundlink_air_wifi_indicator.png">
+<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air/soundlink_air_wifi_indicator.png">
 </div>
 </div>
 </div>
@@ -123,7 +123,7 @@ Mute
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air_2/sl_rc_air_digital_mute.png">
+<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air/sl_rc_air_digital_mute.png">
 </div>
 </div>
 </div>
@@ -157,7 +157,7 @@ Mute
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air_2/sl_rc_air_digital_mute.png">
+<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air/sl_rc_air_digital_mute.png">
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ Mute
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air_2/sl_rc_air_digital_mute.png">
+<img src="https://github.com/bosefirmware/ced-old/raw/master/bose_soundlink_air/sl_rc_air_digital_mute.png">
 </div>
 </div>
 </div>
