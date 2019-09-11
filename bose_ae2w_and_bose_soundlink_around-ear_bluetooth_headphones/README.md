@@ -1,4 +1,5 @@
-<a href="https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html">https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html</a>
+<a href="https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html">https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/bluetooth_headphones">https://worldwide.bose.com/updates/bluetooth_headphones</a>
 <main>
 <a href="https://www.bose.com/en_us/support/products/over_ear_headphones_support/soundlink-around-ear-bluetooth-headphones.html">SoundLink® around-ear headphones</a>
 <div class="title">
