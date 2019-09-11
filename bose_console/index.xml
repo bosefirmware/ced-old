@@ -1,0 +1,995 @@
+<INDEX REVISION="02.11.00">
+
+  <!-- Resolute -->
+  <DEVICE ID="0xDEF1" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- Vigilant -->
+  <DEVICE ID="0xDEF2" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- Marley -->
+  <DEVICE ID="0xDEF3" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- ResoluteAudioOut -->
+  <DEVICE ID="0xDEF4" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- VigilantAudioOut -->
+  <DEVICE ID="0xDEF5" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- MarconiResolute -->
+  <DEVICE ID="0xDEF6" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- MarconiVigilant -->
+  <DEVICE ID="0xDEF8" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+  <!-- MarconiMarley -->
+  <DEVICE ID="0xDEF9" PRODUCTNAME="Bose Console">
+
+    <!-- alpha 2 hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.00">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.01">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.02">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.03">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.04">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.05">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.06">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.07">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.08">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+
+    <!-- production hardware with new updated config.xml generation -->
+    <HARDWARE REVISION="00.01.09">
+      <PATTERNMATCH>
+        <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
+        <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
+      </PATTERNMATCH>
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+        <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
+        <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+
+</INDEX>
