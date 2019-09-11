@@ -1,4 +1,5 @@
-<a href="https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html">https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html</a>
+<a href="https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html">https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/btspeaker">https://worldwide.bose.com/updates/btspeaker</a>
 <main>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
