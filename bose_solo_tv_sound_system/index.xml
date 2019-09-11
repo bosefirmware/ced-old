@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <INDEX REVISION="02.13.00">
+    <DEVICE ID="0xC151" PRODUCTNAME="Bose Solo TV sound system">
+      <HARDWARE REVISION="0.2.0">
+        <RELEASE REVISION="1.0.6.1287" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_solo_tv_sound_system/">
+          <IMAGE REVISION="1.0.6.1287" SUBID="0" LENGTH="1966080" CRC="0x3ea24a70" FILENAME="Bose_Solo_TV_sound_system_1.0.6.1287.bos" NOFORCE="0"/>
+        </RELEASE>
+      </HARDWARE>
+    </DEVICE>
+    <DEVICE ID="0xC152" PRODUCTNAME="Bose Solo TV sound system">
+      <HARDWARE REVISION="0.2.0">
+        <RELEASE REVISION="2.1.0.183" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_solo_tv_sound_system/">
+          <IMAGE REVISION="2.1.0.183" SUBID="0" LENGTH="1966080" CRC="0xd62010f3" FILENAME="Bose_Solo_TV_sound_system_2.1.0.183.bos" NOFORCE="0"/>
+        </RELEASE>
+      </HARDWARE>
+    </DEVICE>
+    <DEVICE ID="0xC153" PRODUCTNAME="Bose Solo TV sound system">
+      <HARDWARE REVISION="0.2.0">
+        <RELEASE REVISION="3.1.2.331" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_solo_tv_sound_system/">
+          <IMAGE REVISION="3.1.2.331" SUBID="0" LENGTH="1966080" CRC="0xd8af44c2" FILENAME="WasabiUnified.bin" NOFORCE="0"/>
+          <IMAGE REVISION="3.1.2.331" SUBID="1" LENGTH="1085222" CRC="0xffffffff" FILENAME="Bose_Solo_TV_sound_system.dfu" NOFORCE="0"/>
+        </RELEASE>
+      </HARDWARE>
+    </DEVICE>
+  </INDEX>
