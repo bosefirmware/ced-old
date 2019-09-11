@@ -60,7 +60,8 @@ Updating the system software (video included)
 </ul>
 </div>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nDx2V-ncbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![How to update the system software on your Bose® SoundLink® Air digital music system](https://img.youtube.com/vi/8nDx2V-ncbs/0.jpg)](https://www.youtube.com/watch?v=8nDx2V-ncbs)</br>
+https://www.youtube.com/watch?v=8nDx2V-ncbs
 <div class="text">
 <div class="bose-richText  ">
 <p>Software updates sometimes become available to improve the performance of your system. To update your software, follow these steps:</p>
