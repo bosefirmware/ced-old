@@ -1,0 +1,55 @@
+<?xml version='1.0' standalone='yes'?>
+<INDEX REVISION="03.00.00">
+  <DEVICE ID="0x4000" PRODUCTNAME="Bose Bluetooth Headset">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.02.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_18.9C.bos" LENGTH="619056" NOFORCE="1" REVISION="18.9C.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_01.02.bos" LENGTH="160926" NOFORCE="0" REVISION="01.02.00" />
+      </RELEASE>
+      <RELEASE REVISION="01.04.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_18.9C.bos" LENGTH="619056" NOFORCE="1" REVISION="18.9C.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_01.04.bos" LENGTH="160926" NOFORCE="0" REVISION="01.04.00" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+  <DEVICE ID="0x4001" PRODUCTNAME="Bose Bluetooth Headset">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.02.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_18.9C.bos" LENGTH="619056" NOFORCE="1" REVISION="18.9C.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_01.02.bos" LENGTH="160926" NOFORCE="0" REVISION="01.02.00" />
+      </RELEASE>
+      <RELEASE REVISION="01.04.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_18.9C.bos" LENGTH="619056" NOFORCE="1" REVISION="18.9C.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_01.04.bos" LENGTH="160926" NOFORCE="0" REVISION="01.04.00" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+  <DEVICE ID="0x4002" PRODUCTNAME="Bose Bluetooth Headset">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.06.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_24.A7.bos" LENGTH="609906" NOFORCE="1" REVISION="24.A7.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="stack_plus_app_bose_01.06.00.bos" LENGTH="958552" NOFORCE="0" REVISION="01.06.00" />
+      </RELEASE>
+      <RELEASE REVISION="01.07.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_24.A7.bos" LENGTH="609906" NOFORCE="1" REVISION="24.A7.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="stack_plus_app_bose_01.07.00.bos" LENGTH="958542" NOFORCE="0" REVISION="01.07.00" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+  <DEVICE ID="0x4003" PRODUCTNAME="Bose Bluetooth Headset">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="01.05.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_1C.2D.bos" LENGTH="609888" NOFORCE="1" REVISION="1C.2D.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_01.05.00.bos" LENGTH="349388" NOFORCE="0" REVISION="01.05.00" />
+      </RELEASE>
+      <RELEASE REVISION="01.06.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_24.A7.bos" LENGTH="609906" NOFORCE="1" REVISION="24.A7.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="stack_plus_app_bose_01.06.00.bos" LENGTH="958552" NOFORCE="0" REVISION="01.06.00" />
+      </RELEASE>
+      <RELEASE REVISION="01.07.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_bluetooth_headset/">
+        <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_24.A7.bos" LENGTH="609906" NOFORCE="1" REVISION="24.A7.00" />
+        <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="stack_plus_app_bose_01.07.00.bos" LENGTH="958542" NOFORCE="0" REVISION="01.07.00" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
