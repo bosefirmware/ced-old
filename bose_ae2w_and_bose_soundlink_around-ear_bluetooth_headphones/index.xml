@@ -2,7 +2,7 @@
 <INDEX REVISION="03.00.00">
   <DEVICE ID="0x4005" PRODUCTNAME="Bose AE2w and Bose SoundLink around-ear Bluetooth headphones">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="01.03.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/">
+      <RELEASE REVISION="01.03.00" HTTPHOST="downloads.bose.com" URLPATH="/ced/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/">
         <IMAGE SUBID="0" CRC="0xffffffff" FILENAME="stack_bose_24.E1.bos" LENGTH="729738" NOFORCE="1" REVISION="24.E1.00" />
         <IMAGE SUBID="1" CRC="0xffffffff" FILENAME="app_bose_010300.bos" LENGTH="396996" NOFORCE="0" REVISION="01.03.00" />
       </RELEASE>
