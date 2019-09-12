@@ -1,4 +1,10 @@
 # ced-old
+Not every Bose product used <a href="https://btu.bose.com">btu.bose.com</a>. In the past Bose made programs to update their speakers.<br>
+<br>
+Programs and firmware currently know has been uploaded here. Though there is a 25mb file limit imposed by GitHub. So the <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_console">bose_console</a> folder is missing the 100mb <a href="http://downloads.bose.com/ced/bose_console/DEF_CON_02.21.00.r13184.bos">DEF_CON_02.21.00.r13184.bos</a> file.<br>
+<br>
+Programs uploaded are direct from Bose, so the programs still look for firmware on Bose's servers. Everything is backed up encase they are ever removed.<br>
+<br>
 Bose AE2w = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/README.md">(Info)</a><br>
 Bose Bluetooth headset = vincent <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_headset/README.md">(Info)</a><br>
 Bose Bluetooth headset series 2 = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_headset/README.md">(Info)</a><br>
