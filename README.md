@@ -1,7 +1,7 @@
 # ced-old
 Not every Bose product used <a href="https://btu.bose.com">btu.bose.com</a>. In the past Bose made programs to update their speakers.<br>
 <br>
-Programs and firmware currently know has been uploaded here. Though there is a 25mb file limit imposed by GitHub. So the <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_console">bose_console</a> folder is missing the 100mb <a href="http://downloads.bose.com/ced/bose_console/DEF_CON_02.21.00.r13184.bos">DEF_CON_02.21.00.r13184.bos</a> file.<br>
+Programs and firmware currently know has been uploaded here. Though there is a 25mb file limit imposed by GitHub. So the <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_console">bose_console</a> folder is missing the 100mb <a href="https://gofile.io/?c=SElnI3">DEF_CON_02.21.00.r13184.bos</a> file.<br>
 <br>
 Programs uploaded are direct from Bose, so they still look for firmware on Bose's servers. Everything is backed up encase they are ever removed.<br>
 <br>
