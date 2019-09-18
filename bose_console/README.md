@@ -1,8 +1,6 @@
 <a href="https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a><br>
 <a href="https://worldwide.bose.com/updates/lifestyle">https://worldwide.bose.com/updates/lifestyle</a>
 <br>
-<br>
-There is a 25mb file limit imposed by GitHub. So this folder is missing the 100mb <a href="https://gofile.io/?c=SElnI3">DEF_CON_02.21.00.r13184.bos</a> file.<br>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
