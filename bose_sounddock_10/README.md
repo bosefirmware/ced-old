@@ -3,11 +3,16 @@
 <div data-id="SupportTabs_tab3" class="bose-tabContent__content " lpos="Downloads region area">
 <a name="SupportTabs_tab3" title=""></a>
 <div class="title">
-<h4 class="bose-title -left -productPage  ">
-<p>SoundDock&reg; 10 system, SoundDock&reg; 10 Bluetooth&reg; digital music system or SoundDock&reg; 10 Bluetooth&reg; speaker Update<br />
-  <br />
-These instructions describe how to perform a software update on your Bose&reg; SoundDock&reg; 10 system, SoundDock&reg; 10 Bluetooth&reg; digital music system or SoundDock&reg; 10 Bluetooth&reg; speaker.<br />
-  <br />
+<h2 class="bose-title -left   -none">
+SoundDock&reg; 10 speaker Update
+</h2>
+These instructions describe how to perform a software update on your Bose SoundDock&reg; 10 system
+<h4>Applies to: </h4>
+<ul>
+<li>SoundDock&reg; 10 system</li>
+<li>SoundDock&reg; 10 Bluetooth&reg; digital music system</li>
+<li>SoundDock&reg; 10 Bluetooth&reg; speaker Update</li>
+</ul>
 <h2 class="bose-tabContent__title ">Minimum system requirements</h2>
 For Windows PC Users:<br />
 <ul>
