@@ -48,7 +48,7 @@ Do not disconnect the USB cable or the AC power cord while the update applicatio
 <li>If Run, follow the prompts to perform the update.</li>
 <li>If Save, select a location for saving the file (SoundDock_10_Updater.exe). Then start the application from your hard drive and follow the prompts to perform the update.</li>
 </ul>
-<a href="https://github.com/bosefirmware/ced-old/raw/master/bose_sounddock_10/SoundDock_10_Updater.exe">Download for Windows &raquo;</a><br />
+<a href="https://downloads.bose.com/ced/sounddock_10/windows/SoundDock_10_Updater.exe">Download for Windows &raquo;</a><br />
   <br />
 For Mac:<br />
 <ul>
@@ -56,7 +56,7 @@ For Mac:<br />
 <li>A window should open. Drag the Bose&reg; SoundDock 10 Updater file to the desktop as indicated. (If the window doesn't open, double-click the SoundDock_10_Updater icon.)</li>
 <li>Run the SoundDock 10 Updater from your desktop and follow the prompts to perform the update.</li>
 </ul>
-<a href="https://github.com/bosefirmware/ced-old/raw/master/bose_sounddock_10/SoundDock_10_Updater.dmg">Download for Mac &raquo;</a><br />
+<a href="https://downloads.bose.com/ced/sounddock_10/mac/SoundDock_10_Updater.dmg">Download for Mac &raquo;</a><br />
 <h2 class="bose-tabContent__title ">Troubleshooting</h2>
 If the update process fails to work, click the technical support link below for help.<br />
 SoundDock&reg; 10 system frequently asked questions</p>
