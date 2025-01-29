@@ -12,28 +12,25 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave® entertainment system</a>
+<a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave® entertainment system</a> / <a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II</a> / <a href="https://web.archive.org/web/20180721021334/https://www.bose.com/en_us/support/products/soundtouch_systems_support/videowave_iii_55.html">VideoWave® III</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II entertainment system</a>
+<a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10 home cinema system</a> / Lifestyle® 510
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10 home cinema system</a>
+<a href="https://web.archive.org/web/20180728081906/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20 home cinema system</a> / Lifestyle® 520
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180728081906/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20 home cinema system</a>
-</li>
-<li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180728081802/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv35.html">Lifestyle® V35 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081802/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv35.html">Lifestyle® V35 home entertainment system</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/ls535_ii.html">Lifestyle® 535 Series II</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-535-series-iii-home-entertainment-system.html">Lifestyle® 535 Series III</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-soundtouch-535-entertainment-system.html">Lifestyle® SoundTouch® 535</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://web.archive.org/web/20180728081944/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv25.html">Lifestyle® V25 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081944/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv25.html">Lifestyle® V25 home entertainment system</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/ls525_ii.html">Lifestyle® 525 Series II</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-525-series-iii-home-entertainment-system.html">Lifestyle® 525 Series III</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-soundtouch-525-entertainment-system.html">Lifestyle® SoundTouch® 525</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://web.archive.org/web/20180729074636/https://www.bose.com/en_us/support/products/soundbar_and_1_speaker_home_theater_support/ls135.html">Lifestyle® 135 home entertainment system</a>
+<a href="https://web.archive.org/web/20180729074636/https://www.bose.com/en_us/support/products/soundbar_and_1_speaker_home_theater_support/ls135.html">Lifestyle® 135</a> / <a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle_135_series_ii.html">Lifestyle® 135 system II</a> / <a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/ls135_iii.html">Lifestyle® 135 Series III</a> / <a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-soundtouch-135-entertainment-system.html">Lifestyle® SoundTouch® 135</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://web.archive.org/web/20180728081849/https://www.bose.com/en_us/support/products/2_speaker_home_theater_support/ls_235.html">Lifestyle® 235 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081849/https://www.bose.com/en_us/support/products/2_speaker_home_theater_support/ls_235.html">Lifestyle® 235</a> / <a href="https://web.archive.org/web/20180721021256/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle_235_series_ii.html">Lifestyle® 235 system II</a> / <a href="https://web.archive.org/web/20180721021256/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle_235_series_iii.html">Lifestyle® 235 system III</a> / <a href="https://web.archive.org/web/20180721021256/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-soundtouch-235-entertainment-system.html">Bose Lifestyle SoundTouch 235</a>
 </li>
 </ul>
 <a class="bose-list__showmore" href="https://web.archive.org/web/20200812095635/https://www.bose.com/en_us/support/article/home_entertainment_system_download.html#">more...</a>
