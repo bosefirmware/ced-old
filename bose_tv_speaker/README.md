@@ -1,6 +1,14 @@
-[https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/bose-tv-speaker.html](https://web.archive.org/web/20200918145241/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/bose-tv-speaker.html)<br>
-[https://www.bose.com/en_us/support/articles/HC2474/productCodes/bose_tv_speaker/article.html](https://web.archive.org/web/20230607233653/https://www.bose.com/en_us/support/articles/HC2474/productCodes/bose_tv_speaker/article.html)
-
+[Archived Instructions](https://web.archive.org/web/20230607233653/https://www.bose.com/en_us/support/articles/HC2474/productCodes/bose_tv_speaker/article.html)
+<div class="articleAppliesTo">
+<div class="bose-list bose-list--appliesToList">
+<h4 class="bose-list__title">Applies to: </h4>
+<ul class="bose-list__list">
+<li class="bose-list__listitem ">
+<a href="https://web.archive.org/web/20200918145241/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/bose-tv-speaker.html">Bose TV Speaker</a>
+</li>
+</ul>
+</div>
+</div>
 # Updating Your Speaker
 
 ## Before you begin
