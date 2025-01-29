@@ -1,9 +1,20 @@
 <main>
-<a href="https://web.archive.org/web/20210801211209/https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html">https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html</a><br>
-<a href="https://worldwide.bose.com/updates/bluetooth_headphones">https://worldwide.bose.com/updates/bluetooth_headphones</a><br>
-<br>
-<a href="https://web.archive.org/web/20180725092956/https://www.bose.com/en_us/support/products/over_ear_headphones_support/soundlink-around-ear-bluetooth-headphones.html">SoundLink® around-ear headphones</a><br>
+<a href="https://web.archive.org/web/20210801211209/https://www.bose.com/en_us/support/article/soundlink_ae2w_download.html">Archived Instructions</a><br>
+<a href="https://worldwide.bose.com/updates/bluetooth_headphones">https://worldwide.bose.com/updates/bluetooth_headphones</a>
+<div class="articleAppliesTo">
+<div class="bose-list bose-list--appliesToList">
+<h4 class="bose-list__title">Applies to: </h4>
+<ul class="bose-list__list">
+<li class="bose-list__listitem ">
+<a href="https://web.archive.org/web/20180725092956/https://www.bose.com/en_us/support/products/over_ear_headphones_support/soundlink-around-ear-bluetooth-headphones.html">AE2w Bluetooth® Headphones</a><br>
 <a href="https://web.archive.org/web/20230607091947/https://www.bose.com/en_us/support/products/bose_headphones_support/bose_around_ear_headphones_support/soundlink-around-ear-bluetooth-headphones.html">SoundLink® around-ear headphones</a>
+</li>
+<li class="bose-list__listitem ">
+<a href="https://web.archive.org/web/20230607091947/https://www.bose.com/en_us/support/products/bose_headphones_support/bose_around_ear_headphones_support/soundlink-around-ear-bluetooth-headphones.html">SoundLink® around-ear headphones</a>
+</li>
+</ul>
+</div>
+</div>
 <div class="title">
 <h2 class="bose-title -left   -none">
 Bose® SoundLink® around-ear Bluetooth® headphones update (Formerly: AE2w Bluetooth® headphones)
