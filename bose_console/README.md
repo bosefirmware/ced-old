@@ -12,7 +12,7 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave® entertainment system</a> / <a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II</a> / <a href="https://web.archive.org/web/20180721021334/https://www.bose.com/en_us/support/products/soundtouch_systems_support/videowave_iii_55.html">VideoWave® III</a>
+<a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave®</a> / <a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II</a> / <a href="https://web.archive.org/web/20180721021334/https://www.bose.com/en_us/support/products/soundtouch_systems_support/videowave_iii_55.html">VideoWave® III</a>
 </li>
 <li class="bose-list__listitem ">
 <a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10</a> / Lifestyle® 510
