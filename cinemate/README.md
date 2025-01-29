@@ -1,5 +1,5 @@
 <main>
-<a href="https://web.archive.org/web/20211006003338/https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a><br>
+<a href="https://web.archive.org/web/20211006003338/https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">Archived Instructions</a><br>
 <a href="https://worldwide.bose.com/updates/cinemate">https://worldwide.bose.com/updates/cinemate</a>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
