@@ -1,11 +1,11 @@
-<a href="https://www.bose.com/en_us/support/article/solo_5_tv_sound_system_download.html">https://www.bose.com/en_us/support/article/solo_5_tv_sound_system_download.html</a>
 <main>
+<a href="https://web.archive.org/web/20170417215638/https://www.bose.com/en_us/support/article/solo_5_tv_sound_system_download.html">https://www.bose.com/en_us/support/article/solo_5_tv_sound_system_download.html</a><br><br>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/bose-solo-5-tv-sound-system.html">Bose Solo 5 TV sound system</a>
+<a href="https://web.archive.org/web/20170412212141/https://www.bose.com/en_us/support/products/speakers_support/soundbar_and_1_speaker_home_theater_support/bose-solo-5-tv-sound-system.html">Bose Solo 5 TV sound system</a>
 </li>
 </ul>
 </div>
