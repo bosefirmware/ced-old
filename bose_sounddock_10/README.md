@@ -6,7 +6,8 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180724145241/https://www.bose.com/en_us/support/products/docking_speakers_support/sounddock_10.html">SoundDock 10 system</a>
+<a href="https://web.archive.org/web/20180724145241/https://www.bose.com/en_us/support/products/docking_speakers_support/sounddock_10.html">SoundDock® 10 system</a><br>
+<a href="https://web.archive.org/web/20180724145241/https://www.bose.com/en_us/support/products/docking_speakers_support/sounddock_10.html">SoundDock® 10 Bluetooth® digital music system</a>
 </li>
 </ul>
 </div>
