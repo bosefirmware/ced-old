@@ -1,7 +1,7 @@
-<a href="https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html">https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html</a><br>
-<a href="https://worldwide.bose.com/updates/soundlink_air_2">https://worldwide.bose.com/updates/soundlink_air_2</a>
 <div data-id="SupportTabs_tab3" class="bose-tabContent__content " lpos="Downloads region area">
 <a name="SupportTabs_tab3" title=""></a>
+<a href="https://web.archive.org/web/20180724145141/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html">https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html</a><br>
+<a href="https://worldwide.bose.com/updates/soundlink_air_2">https://worldwide.bose.com/updates/soundlink_air_2</a>
 <h2 class="bose-tabContent__title ">Downloads</h2>
 <div class="title">
 <h4 class="bose-title -left -productPage  ">
@@ -41,7 +41,7 @@ For Mac
 </div>
 <div class="linkButtonAttachment">
 <div class="bose-linkButtonAttachment">
-<a class="bose-linkButtonAttachment__link bose-link   none " href="https://www.bose.ca/en_ca/support/article/updating-the-system-software-video-included-soundlink-air.html" target="_self" alt="More about software downloads" title="More about software downloads">More about software downloads</a>
+<a class="bose-linkButtonAttachment__link bose-link   none " href="https://web.archive.org/web/20170313190255/https://www.bose.com/en_us/support/article/updating-the-system-software-video-included-soundlink-air.html" target="_self" alt="More about software downloads" title="More about software downloads">More about software downloads</a>
 </div>
 </div>
 </div>
@@ -56,7 +56,7 @@ Updating the system software (video included)
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.ca/en_ca/support/products/portable_speakers_support/soundlink_air.html">SoundLink® Air digital music system</a>
+<a href="https://web.archive.org/web/20180724145141/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html">SoundLink® Air digital music system</a>
 </li>
 </ul>
 </div>
