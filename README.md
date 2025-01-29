@@ -29,5 +29,6 @@ Bose SoundDock 10 = ? <a href="https://github.com/bosefirmware/ced-old/blob/mast
 Bose SoundLink Air = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_soundlink_air/README.md">(Info)</a><br>
 Bose SoundLink around-ear Bluetooth headphone = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/README.md">(Info)</a><br>
 Bose SoundLink Wireless Mobile speaker = Chihuahua <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_speaker/README.md">(Info)</a><br>
+Bose TV Speaker = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_tv_speaker">(Info)</a><br>
 Bose VideoWave entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
 Bose VideoWave II entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
