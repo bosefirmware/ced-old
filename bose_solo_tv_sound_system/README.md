@@ -1,5 +1,5 @@
 <main>
-<a href="https://web.archive.org/web/20221007222652/https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html">https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html</a><br>
+<a href="https://web.archive.org/web/20221007222652/https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html">Archived Instructions</a><br>
 <a href="https://worldwide.bose.com/updates/solo_tv_sound_system">https://worldwide.bose.com/updates/solo_tv_sound_system</a>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
