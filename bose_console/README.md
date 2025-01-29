@@ -7,7 +7,6 @@
 </div></div>
 <a href="https://web.archive.org/web/20230203133833/https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a><br>
 <a href="https://worldwide.bose.com/updates/lifestyle">https://worldwide.bose.com/updates/lifestyle</a>
-<br><br>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
 <h4 class="bose-list__title">Applies to: </h4>
