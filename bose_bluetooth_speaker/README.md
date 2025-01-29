@@ -1,6 +1,6 @@
-<a href="https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html">https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html</a><br>
-<a href="https://worldwide.bose.com/updates/btspeaker">https://worldwide.bose.com/updates/btspeaker</a>
 <main>
+<a href="https://web.archive.org/web/20210731020405/https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html">https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/btspeaker">https://worldwide.bose.com/updates/btspeaker</a><br /><br />
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
@@ -13,7 +13,7 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_mobile_leather.html">SoundLink® Wireless Mobile speaker</a>
+<a href="https://web.archive.org/web/20180724145158/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_mobile_leather.html">SoundLink® Wireless Mobile speaker</a>
 </li>
 </ul>
 </div>
