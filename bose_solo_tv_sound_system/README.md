@@ -1,4 +1,4 @@
-<a href="https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html">https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html</a><br>
+<a href="https://web.archive.org/web/20221007222652/https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html">https://www.bose.com/en_us/support/article/solo_tv_sound_system_download.html</a><br>
 <a href="https://worldwide.bose.com/updates/solo_tv_sound_system">https://worldwide.bose.com/updates/solo_tv_sound_system</a>
 <main>
 <div class="articleAppliesTo">
@@ -6,19 +6,19 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_10.html">Bose® Solo 10 TV sound system</a>
+<a href="https://web.archive.org/web/20221129085522/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/solo_tv_sound_system.html">Bose® Solo TV sound system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_15.html">Bose® Solo 15 TV system</a>
+<a href="https://web.archive.org/web/20221007222652/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/solo_10.html">Bose® Solo 10 TV sound system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_10_series_ii.html">Bose® Solo 10 series II TV sound system</a>
+<a href="https://web.archive.org/web/20221007222652/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/solo_15.html">Bose® Solo 15 TV system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/bose-solo-15-tv-sound-system.html">Bose® Solo 15 series II TV sound system</a>
+<a href="https://web.archive.org/web/20220925091847/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/solo_10_series_ii.html">Bose® Solo 10 series II TV sound system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/solo_tv_sound_system.html">Bose® Solo TV sound system</a>
+<a href="https://web.archive.org/web/20220925091846/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/bose-solo-15-tv-sound-system.html">Bose® Solo 15 series II TV sound system</a>
 </li>
 </ul>
 </div>
