@@ -1,11 +1,6 @@
 <main>
 <a href="https://web.archive.org/web/20211006003338/https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a><br>
 <a href="https://worldwide.bose.com/updates/cinemate">https://worldwide.bose.com/updates/cinemate</a>
-<div class="pageTitle title">
-<h1 class="bose-title bose-title--mainTitle   -">
-Manually updating your SoundTouch system
-</h1>
-</div>
 <div class="articleAppliesTo">
 <div class="bose-list bose-list--appliesToList">
 <h4 class="bose-list__title">Applies to: </h4>
@@ -24,6 +19,11 @@ Manually updating your SoundTouch system
 </li>
 </ul>
 </div>
+</div>
+<div class="pageTitle title">
+<h1 class="bose-title bose-title--mainTitle   -">
+Manually updating your SoundTouch system
+</h1>
 </div>
 <div class="title">
 <h2 class="bose-title -left   -none">
