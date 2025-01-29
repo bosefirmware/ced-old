@@ -6,16 +6,16 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180801050744/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-120-home-theater-system.html">CineMate® 120 system</a>
+<a href="https://web.archive.org/web/20180801050744/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-120-home-theater-system.html">CineMate® 120 system</a> / <a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/soundtouch-120-home-theater-system.html">SoundTouch® 120 home theater system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-130-home-theater-system.html">CineMate® 130 system</a>
+<a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-130-home-theater-system.html">CineMate® 130 system</a> / <a href="https://web.archive.org/web/20180721021340/https://www.bose.com/en_us/support/products/soundtouch_systems_support/soundtouch-130-home-theater-system.html">SoundTouch® 130 home theater system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180801050800/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate_220.html">CineMate® 220 system</a>
+<a href="https://web.archive.org/web/20180801050800/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate_220.html">CineMate® 220 system</a> / <a href="https://web.archive.org/web/20180721021256/https://www.bose.com/en_us/support/products/soundtouch_systems_support/soundtouch-220-home-theater-system.html">SoundTouch® 220 home theater system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180801050809/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a>
+<a href="https://web.archive.org/web/20180801050809/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/soundtouch-520-home-theater-system.html">SoundTouch® 520 home theater system</a>
 </li>
 </ul>
 </div>
