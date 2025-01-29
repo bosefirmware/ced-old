@@ -20,7 +20,7 @@ Manually updating your SoundTouch system
 <a href="https://web.archive.org/web/20180801050800/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate_220.html">CineMate® 220 system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20211006122050/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_5_speaker_home_theater_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a>
+<a href="https://web.archive.org/web/20180801050809/https://www.bose.com/en_us/support/products/soundtouch_systems_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a>
 </li>
 </ul>
 </div>
