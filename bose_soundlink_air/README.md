@@ -2,6 +2,16 @@
 <a name="SupportTabs_tab3" title=""></a>
 <a href="https://web.archive.org/web/20180724145141/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html">https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html</a><br>
 <a href="https://worldwide.bose.com/updates/soundlink_air_2">https://worldwide.bose.com/updates/soundlink_air_2</a>
+<div class="articleAppliesTo">
+<div class="bose-list bose-list--appliesToList">
+<h4 class="bose-list__title">Applies to: </h4>
+<ul class="bose-list__list">
+<li class="bose-list__listitem ">
+<a href="https://web.archive.org/web/20180724145141/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html">SoundLink® Air digital music system</a>
+</li>
+</ul>
+</div>
+</div>
 <h2 class="bose-tabContent__title ">Downloads</h2>
 <div class="title">
 <h4 class="bose-title -left -productPage  ">
@@ -50,16 +60,6 @@ For Mac
 <h1 class="bose-title bose-title--mainTitle   -">
 Updating the system software (video included)
 </h1>
-</div>
-<div class="articleAppliesTo">
-<div class="bose-list bose-list--appliesToList">
-<h4 class="bose-list__title">Applies to: </h4>
-<ul class="bose-list__list">
-<li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180724145141/https://www.bose.com/en_us/support/products/portable_speakers_support/soundlink_air.html">SoundLink® Air digital music system</a>
-</li>
-</ul>
-</div>
 </div>
 How to update the system software on your Bose® SoundLink® Air digital music system<br>
 https://www.youtube.com/watch?v=8nDx2V-ncbs
