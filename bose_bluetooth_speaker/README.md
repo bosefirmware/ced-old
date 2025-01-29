@@ -1,6 +1,6 @@
 <main>
 <a href="https://web.archive.org/web/20210731020405/https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html">https://www.bose.com/en_us/support/article/soundlink_wireless_mobile_download.html</a><br>
-<a href="https://worldwide.bose.com/updates/btspeaker">https://worldwide.bose.com/updates/btspeaker</a><br /><br />
+<a href="https://worldwide.bose.com/updates/btspeaker">https://worldwide.bose.com/updates/btspeaker</a>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
