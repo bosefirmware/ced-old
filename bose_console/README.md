@@ -15,10 +15,10 @@
 <a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave®</a> / <a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II</a> / <a href="https://web.archive.org/web/20180721021334/https://www.bose.com/en_us/support/products/soundtouch_systems_support/videowave_iii_55.html">VideoWave® III</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10</a> / Lifestyle® 510
+<a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10</a> / <a href="https://support.bose.com/s/product/lifestyle-510-series-ii-home-entertainment-system/01t8c00000OydIHAAZ?language=en_US">Lifestyle® 510</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20180728081906/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20</a> / Lifestyle® 520
+<a href="https://web.archive.org/web/20180728081906/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20</a> / <a href="https://support.bose.com/s/product/lifestyle-520-series-ii-home-entertainment-system/01t8c00000OydIIAAZ?language=en_US">Lifestyle® 520</a>
 </li>
 <li class="bose-list__listitem ">
 <a href="https://web.archive.org/web/20180728081802/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv35.html">Lifestyle® V35</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/ls535_ii.html">Lifestyle® 535 Series II</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-535-series-iii-home-entertainment-system.html">Lifestyle® 535 Series III</a> / <a href="https://web.archive.org/web/20180721021250/https://www.bose.com/en_us/support/products/soundtouch_systems_support/lifestyle-soundtouch-535-entertainment-system.html">Lifestyle® SoundTouch® 535</a>
