@@ -5,7 +5,7 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://web.archive.org/web/20170412212141/https://www.bose.com/en_us/support/products/speakers_support/soundbar_and_1_speaker_home_theater_support/bose-solo-5-tv-sound-system.html">Bose Solo 5 TV sound system</a>
+<a href="https://web.archive.org/web/20170412212141/https://www.bose.com/en_us/support/products/speakers_support/soundbar_and_1_speaker_home_theater_support/bose-solo-5-tv-sound-system.html">Bose® Solo 5 TV sound system</a>
 </li>
 </ul>
 </div>
