@@ -1,6 +1,6 @@
-<a href="https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a><br>
-<a href="https://worldwide.bose.com/updates/cinemate">https://worldwide.bose.com/updates/cinemate</a>
 <main>
+<a href="https://web.archive.org/web/20211006003338/https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html">https://www.bose.com/en_us/support/article/updating-soundtouch-cm.html</a><br>
+<a href="https://worldwide.bose.com/updates/cinemate">https://worldwide.bose.com/updates/cinemate</a>
 <div class="pageTitle title">
 <h1 class="bose-title bose-title--mainTitle   -">
 Manually updating your SoundTouch system
@@ -11,16 +11,16 @@ Manually updating your SoundTouch system
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/cinemate-120-home-theater-system.html">CineMate® 120 system</a>
+<a href="https://web.archive.org/web/20211006102532/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/cinemate-120-home-theater-system.html">CineMate® 120 system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_soundbar_and_1_speaker_home_theater_support/cinemate-130-home-theater-system.html">CineMate® 130 system</a>
+<a href="https://web.archive.org/web/20211006113747/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_soundbar_and_1_speaker_home_theater_support/cinemate-130-home-theater-system.html">CineMate® 130 system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_2_speaker_home_theater_support/cinemate_220.html">CineMate® 220 system</a>
+<a href="https://web.archive.org/web/20211006003338/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_2_speaker_home_theater_support/cinemate_220.html">CineMate® 220 system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/bose_home_theatre_support/bose_5_speaker_home_theater_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a>
+<a href="https://web.archive.org/web/20211006122050/https://www.bose.com/en_us/support/products/bose_home_theater_support/bose_5_speaker_home_theater_support/cinemate-520-home-theater-system.html">CineMate® 520 system</a>
 </li>
 </ul>
 </div>
