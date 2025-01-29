@@ -1,6 +1,6 @@
-<a href="https://www.bose.com/en_us/support/article/bluetooth_headset_download.html">https://www.bose.com/en_us/support/article/bluetooth_headset_download.html</a><br>
-<a href="https://worldwide.bose.com/updates/vincent">https://worldwide.bose.com/updates/vincent</a>
 <main>
+<a href="https://web.archive.org/web/20230121130631/https://www.bose.com/en_us/support/article/bluetooth_headset_download.html">https://www.bose.com/en_us/support/article/bluetooth_headset_download.html</a><br>
+<a href="https://worldwide.bose.com/updates/vincent">https://worldwide.bose.com/updates/vincent</a><br><br>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
@@ -13,10 +13,12 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/earphones_support/bluetooth_headset.html">Bose® <em>Bluetooth</em>® headset</a>
+<a href="https://web.archive.org/web/20180725093031/https://www.bose.com/en_us/support/products/earphones_support/bluetooth_headset.html">Bose® <em>Bluetooth</em>® headset</a><br />
+<a href="https://web.archive.org/web/20230203093903/https://www.bose.com/en_us/support/products/bose_headphones_support/bose_in_ear_headphones_support/bluetooth_headset.html">Bose® <em>Bluetooth</em>® headset</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/earphones_support/bluetooth_headset_2.html">Bose® <em>Bluetooth</em>® headset Series 2</a>
+<a href="https://web.archive.org/web/20180725093043/https://www.bose.com/en_us/support/products/earphones_support/bluetooth_headset_2.html">Bose® <em>Bluetooth</em>® headset Series 2</a><br />
+<a href="https://web.archive.org/web/20220627091202/https://www.bose.com/en_us/support/products/bose_headphones_support/bose_in_ear_headphones_support/bluetooth_headset_2.html">Bose® <em>Bluetooth</em>® headset Series 2</a>
 </li>
 </ul>
 </div>
