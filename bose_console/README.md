@@ -1,4 +1,4 @@
-<a href="https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a><br>
+<a href="https://web.archive.org/web/20230203133833/https://www.bose.com/en_us/support/article/home_entertainment_system_download.html">https://www.bose.com/en_us/support/article/home_entertainment_system_download.html</a><br>
 <a href="https://worldwide.bose.com/updates/lifestyle">https://worldwide.bose.com/updates/lifestyle</a>
 <br>
 <div class="bose-templateArticlepage">
@@ -13,31 +13,31 @@
 <h4 class="bose-list__title">Applies to: </h4>
 <ul class="bose-list__list">
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave® entertainment system</a>
+<a href="https://web.archive.org/web/20190217165306/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_46_series1.html"> VideoWave® entertainment system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II entertainment system</a>
+<a href="https://web.archive.org/web/20180801051155/https://www.bose.com/en_us/support/products/specialty_professional_and_other_support/videowave_series2.html">VideoWave® II entertainment system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10 home cinema system</a>
+<a href="https://web.archive.org/web/20180728081858/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst10.html">Lifestyle® T10 home cinema system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20 home cinema system</a>
+<a href="https://web.archive.org/web/20180728081906/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lst20.html">Lifestyle® T20 home cinema system</a>
 </li>
 <li class="bose-list__listitem ">
-<a href="https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv35.html">Lifestyle® V35 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081802/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv35.html">Lifestyle® V35 home entertainment system</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv25.html">Lifestyle® V25 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081944/https://www.bose.com/en_us/support/products/5_speaker_home_theater_support/lsv25.html">Lifestyle® V25 home entertainment system</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://www.bose.com/en_us/support/products/soundbar_and_1_speaker_home_theater_support/ls135.html">Lifestyle® 135 home entertainment system</a>
+<a href="https://web.archive.org/web/20180729074636/https://www.bose.com/en_us/support/products/soundbar_and_1_speaker_home_theater_support/ls135.html">Lifestyle® 135 home entertainment system</a>
 </li>
 <li class="bose-list__listitem bose-list__listitem--hidden">
-<a href="https://www.bose.com/en_us/support/products/2_speaker_home_theater_support/ls_235.html">Lifestyle® 235 home entertainment system</a>
+<a href="https://web.archive.org/web/20180728081849/https://www.bose.com/en_us/support/products/2_speaker_home_theater_support/ls_235.html">Lifestyle® 235 home entertainment system</a>
 </li>
 </ul>
-<a class="bose-list__showmore" href="https://www.bose.com/en_us/support/article/home_entertainment_system_download.html#">more...</a>
+<a class="bose-list__showmore" href="https://web.archive.org/web/20200812095635/https://www.bose.com/en_us/support/article/home_entertainment_system_download.html#">more...</a>
 </div>
 </div>
 <div class="title">
