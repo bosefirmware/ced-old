@@ -102,7 +102,7 @@ Steps to complete:
 </div>
 </div>
 <div class="buttonLink">
-<a href="https://github.com/bosefirmware/ced-old/raw/master/bose_solo_5_tv_sound_system/Solo5.mdu" role="button" class="bose-buttonLink bose-buttonLink--type1 none -withBorder    " title="DOWNLOAD NOW" target="_self">
+<a href="https://downloads.bose.com/ced/bose_solo_tv_sound_system/Solo5.mdu" role="button" class="bose-buttonLink bose-buttonLink--type1 none -withBorder    " title="DOWNLOAD NOW" target="_self">
 <span>DOWNLOAD NOW</span>
 </a>
 </div>
