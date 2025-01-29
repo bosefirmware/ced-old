@@ -1,6 +1,6 @@
 <main>
 <a href="https://web.archive.org/web/20230121130631/https://www.bose.com/en_us/support/article/bluetooth_headset_download.html">https://www.bose.com/en_us/support/article/bluetooth_headset_download.html</a><br>
-<a href="https://worldwide.bose.com/updates/vincent">https://worldwide.bose.com/updates/vincent</a><br><br>
+<a href="https://worldwide.bose.com/updates/vincent">https://worldwide.bose.com/updates/vincent</a>
 <div class="bose-templateArticlepage">
 <div class="parent bose-content-container">
 <section class="bose-templateArticlepage__sectionPrimary">
