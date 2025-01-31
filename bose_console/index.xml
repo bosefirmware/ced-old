@@ -9,7 +9,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -21,7 +21,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -33,7 +33,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -45,7 +45,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -57,7 +57,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -69,7 +69,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -81,7 +81,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -93,7 +93,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -105,7 +105,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -117,7 +117,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -133,7 +133,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -145,7 +145,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -157,7 +157,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -169,7 +169,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -181,7 +181,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -193,7 +193,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -205,7 +205,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -217,7 +217,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -229,7 +229,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -241,7 +241,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -257,7 +257,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -269,7 +269,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -281,7 +281,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -293,7 +293,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -305,7 +305,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -317,7 +317,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -329,7 +329,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -341,7 +341,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -353,7 +353,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -365,7 +365,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -381,7 +381,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -393,7 +393,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -405,7 +405,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -417,7 +417,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -429,7 +429,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -441,7 +441,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -453,7 +453,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -465,7 +465,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -477,7 +477,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -489,7 +489,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -505,7 +505,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -517,7 +517,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -529,7 +529,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -541,7 +541,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -553,7 +553,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -565,7 +565,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -577,7 +577,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -589,7 +589,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -601,7 +601,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -613,7 +613,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -629,7 +629,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -641,7 +641,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -653,7 +653,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -665,7 +665,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -677,7 +677,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -689,7 +689,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -701,7 +701,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -713,7 +713,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -725,7 +725,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -737,7 +737,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -753,7 +753,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -765,7 +765,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -777,7 +777,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -789,7 +789,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -801,7 +801,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -813,7 +813,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -825,7 +825,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -837,7 +837,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -849,7 +849,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -861,7 +861,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -877,7 +877,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -889,7 +889,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -901,7 +901,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -913,7 +913,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -925,7 +925,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -937,7 +937,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -949,7 +949,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -961,7 +961,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -973,7 +973,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
@@ -985,7 +985,7 @@
         <REGEX SUBID="0" MATCH="\bDEF_CON_[0-9][0-9]\.[0-9][0-9]\.[A-Z0-9][A-Z0-9]\.r[0-9]*\.bos\b"/>
         <REGEX SUBID="1" MATCH="\bDEF_IR_[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+-[DP][12]\.[bo][ol][sd]\b"/>
       </PATTERNMATCH>
-      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/">
+      <RELEASE REVISION="02.21.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_console/02.21.00/">
         <IMAGE REVISION="02.21.00" SUBID="0" LENGTH="104714872" CRC="0xd71c1582" FILENAME="DEF_CON_02.21.00.r13184.bos" />
         <IMAGE REVISION="5.3.30.1" SUBID="1" LENGTH="5005976" CRC="0x9a9750ee" FILENAME="DEF_IR_5.3.30.1-P2.old" />
       </RELEASE>
