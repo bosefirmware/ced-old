@@ -1,8 +1,8 @@
 <INDEX REVISION="02.13.00">
   <DEVICE ID="0x0042" PRODUCTNAME="Cinemate 1SR" VARIANT="0x0000">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="1.6.1" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/cinemate_1sr/">
-        <IMAGE REVISION="1.6.1" SUBID="1" LENGTH="3692140" CRC="0x58e27510" FILENAME="combined_cust_update_1.6.1.3326_010601.3326_010000.upd" />
+      <RELEASE REVISION="01.01.07" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/cinemate_1sr/">
+        <IMAGE REVISION="01.01.07" SUBID="1" LENGTH="3692140" CRC="0x58e27510" FILENAME="Cinemate1SR_SB010107_BB010107.upd" />
       </RELEASE>
     </HARDWARE>
   </DEVICE>
