@@ -1,5 +1,5 @@
 <INDEX REVISION="02.13.00">
-  <DEVICE ID="0x0042" PRODUCTNAME="Cinemate 1SR" VARIANT="0x0000">
+  <DEVICE ID="0x0042" PRODUCTNAME="Cinemate Console" VARIANT="0x0000">
     <HARDWARE REVISION="01.00.00">
       <RELEASE REVISION="1.7.0" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/cinemate/">
         <IMAGE REVISION="1.7.0" SUBID="1" LENGTH="3692140" CRC="0xf6e90bf3" FILENAME="combined_cust_update_1.7.0.3328_010700.3328_010000.upd" />
