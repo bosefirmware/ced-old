@@ -37,6 +37,7 @@ Bose Lifestyle V35 home entertainment system = ? <a href="https://github.com/bos
 Bose Lifestyle 535 Series II home entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
 Bose Lifestyle 535 Series III home entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
 Bose Lifestyle SoundTouch 535 entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
+Bose Noise Cancelling Headphones 700 UC = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_usb_link_updater">(Info)</a><br>
 Bose Solo TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_tv_sound_system/README.md">(Info)</a><br>
 Bose Solo 5 TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_5_tv_sound_system/README.md">(Info)</a><br>
 Bose Solo 10 TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_tv_sound_system/README.md">(Info)</a><br>
@@ -49,6 +50,7 @@ Bose SoundLink Air digital music system = ? <a href="https://github.com/bosefirm
 Bose SoundLink around-ear Bluetooth headphone = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_ae2w_and_bose_soundlink_around-ear_bluetooth_headphones/README.md">(Info)</a><br>
 Bose SoundLink Wireless Mobile speaker = Chihuahua <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_bluetooth_speaker/README.md">(Info)</a><br>
 Bose TV Speaker = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_tv_speaker">(Info)</a><br>
+Bose USB Link Bluetooth® module = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_usb_link_updater">(Info)</a><br>
 Bose VideoWave entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
 Bose VideoWave II entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
 Bose VideoWave III entertainment system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_console/README.md">(Info)</a><br>
