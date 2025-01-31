@@ -13,7 +13,7 @@
 </div>
 </div>
 
-## Updating Your USB Module
+## Updating Your USB Link Bluetooth module
 
 - Bose USB Link Updater software provides a quick and easy way to ensure your USB Link module is running the latest firmware. Simply plug your USB Link module into your computer and open the Bose USB Link Updater software. If your module’s firmware is out of date, the software will let you know a new version is available and provide a simple one-click installation to update your firmware.
 - Firmware updates are important to keep your Bose USB Link Bluetooth® module working seamlessly with your Bose headphones and UC applications (such as Microsoft Teams), so we recommend checking for updates every few months by following the process outlined above.
