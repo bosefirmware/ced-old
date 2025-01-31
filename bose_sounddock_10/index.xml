@@ -2,7 +2,7 @@
   <DEVICE ID="0x1866" PRODUCTNAME="SoundDock 10">
 
     <HARDWARE REVISION="00.02.00">
-      <RELEASE REVISION="01.01.03" HTTPHOST="downloads.bose.com" URLPATH="/ced/sounddock_10/">
+      <RELEASE REVISION="01.01.03" HTTPHOST="downloads.bose.com" URLPATH="/ced/sounddock_10/01.01.03/">
         <IMAGE CRC="0xffffffff" FILENAME="Big_Max_Bluetooth_Dock_VM_010102_000200.bos" LENGTH="104290" NOFORCE="0" REVISION="01.01.02" SUBID="9"/>
         <IMAGE CRC="0x11c69711" FILENAME="Big_Max_CPLD_iPod_Bluetooth_010100_000200.bos" LENGTH="13949" NOFORCE="0" REVISION="01.01.00" SUBID="3"/>
         <IMAGE CRC="0x555fbc50" FILENAME="Big_Max_DSP_MainApp_010101_000200.bos" LENGTH="95000" NOFORCE="0" REVISION="01.01.01" SUBID="2"/>
@@ -16,7 +16,7 @@
     </HARDWARE>
 
     <HARDWARE REVISION="00.03.00">
-      <RELEASE REVISION="01.02.01" HTTPHOST="downloads.bose.com" URLPATH="/ced/sounddock_10/">
+      <RELEASE REVISION="01.02.01" HTTPHOST="downloads.bose.com" URLPATH="/ced/sounddock_10/01.02.01/">
         <IMAGE CRC="0xffffffff" FILENAME="Big_Max_Bluetooth_Dock_VM_010102_000300.bos" LENGTH="104290" REVISION="01.01.02" NOFORCE="0" SUBID="9"/>
         <IMAGE CRC="0xb3fbd0ce" FILENAME="Big_Max_CPLD_iPod_Bluetooth_010200_000300.bos" LENGTH="13949" REVISION="01.02.00" NOFORCE="0" SUBID="3"/>
         <IMAGE CRC="0x088b540c" FILENAME="Big_Max_DSP_Bluetooth_Dock_DLL_010102_000300.bos" LENGTH="23448" REVISION="01.01.02" NOFORCE="0" SUBID="7"/>
