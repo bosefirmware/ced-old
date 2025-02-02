@@ -1,5 +1,5 @@
 <INDEX REVISION="0">
-  <DEVICE ID="0xbc55" PRODUCTNAME="Bose SoundLink Air 2">
+  <DEVICE ID="0xbc55" PRODUCTNAME="Bose SoundLink Air">
     <HARDWARE REVISION="0">
       <RELEASE REVISION="1.2.5.9924" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced-old/bose_soundlink_air/">
         <IMAGE REVISION="1.2.5.9924" SUBID="0" LENGTH="7445944" CRC="0xaa8f8db4" FILENAME="update_1.2.5.9924.fw" /> 
