@@ -61,8 +61,9 @@ For Mac
 Updating the system software (video included)
 </h1>
 </div>
-How to update the system software on your Bose® SoundLink® Air digital music system<br>
-https://www.youtube.com/watch?v=8nDx2V-ncbs
+How to update the system software on your Bose® SoundLink® Air digital music system<be>
+YouTube: <a href="https://www.youtube.com/watch?v=q_9vJhxximo">Bose SoundLink Air - Updating the System Software</a></br>
+<s>https://www.youtube.com/watch?v=8nDx2V-ncbs</s>
 <div class="text">
 <div class="bose-richText  ">
 <p>Software updates sometimes become available to improve the performance of your system. To update your software, follow these steps:</p>
@@ -215,3 +216,4 @@ Mute
 <p>CAUTION: Do not remove power from the SoundLink® Air system while updating the system software.</p><p>Note: If the Wi-Fi® indicator starts blinking red, a system error has occurred. Contact Bose® Customer Service for assistance.</p>
 </div>
 </main>
+
