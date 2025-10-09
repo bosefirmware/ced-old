@@ -8,7 +8,7 @@
 </li>
 </ul>
 </div>
-</div>
+</div> 
 
 # Updating Your Speaker
 
@@ -30,3 +30,4 @@
    - While updating, the TV light on the front of your product blinks amber
    - Once updated, the light turns off
 7. Disconnect the USB drive from your product. Your product will reboot and play a tone when 
+
