@@ -44,8 +44,8 @@ Bose Solo 10 TV sound system = ? <a href="https://github.com/bosefirmware/ced-ol
 Bose Solo 10 series II TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_tv_sound_system/README.md">(Info)</a><br>
 Bose Solo 15 TV system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_tv_sound_system/README.md">(Info)</a><br>
 Bose Solo 15 series II TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_solo_tv_sound_system/README.md">(Info)</a><br>
-Bose Solo Soundbar series II TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_solo_soundbar_2/README.md">(Info)</a><br>
 Bose Solo Soundbar 2 TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_solo_soundbar_2/README.md">(Info)</a><br>
+Bose Solo Soundbar series II TV sound system = ? <a href="https://github.com/bosefirmware/ced-old/tree/master/bose_solo_soundbar_2/README.md">(Info)</a><br>
 Bose SoundDock 10 system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_sounddock_10/README.md">(Info)</a><br>
 Bose SoundDock 10 Bluetooth digital music system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_sounddock_10/README.md">(Info)</a><br>
 Bose SoundLink Air digital music system = ? <a href="https://github.com/bosefirmware/ced-old/blob/master/bose_soundlink_air/README.md">(Info)</a><br>
